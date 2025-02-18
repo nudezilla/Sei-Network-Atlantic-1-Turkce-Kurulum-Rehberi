@@ -347,7 +347,7 @@ rm -rf $(which seid)
 
 [Anatolian Team](https://anatolianteam.com)
 
-[Twitter](https://twitter.commehmetkoltigin)
+[Twitter](https://twitter.com/mehmetkoltigin)
 
 [Medium](https://medium.com/@mehmetkoltigin)
 
